@@ -40,5 +40,11 @@ public class TiposPrimitivos {
 
         System.out.println(saldo);
         System.out.println(saldo2);
+
+        boolean verdadeiro = true;
+        boolean falso = false;
+
+        System.out.println(verdadeiro);
+        System.out.println(falso);
     }
 }
